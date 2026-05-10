@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kootenpv/kootenpv/refs/heads/master/escher_gallery_output_double_compressed.gif" width="100%" alt="Escher Gallery">
+  <img src="https://raw.githubusercontent.com/kootenpv/kootenpv/refs/heads/master/escher_gallery_png_output_double_compressed.gif" width="100%" alt="Escher Gallery">
 </p>
 
 <!--
