@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kootenpv/kootenpv/refs/heads/master/escher_gallery_output_held_double_compressed.gif" width="100%" alt="Escher Gallery">
+</p>
+
 <!--
 **kootenpv/kootenpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
